@@ -8,6 +8,7 @@
 
 :root{
     --color-primary-orange: #EA6D27;
+    --color-primary-orange-10: rgba(234, 111, 39, 0.5);
     --color-secondary-green: #237728;
     --color-secondary-white: #FFFFFF;
     --color-secondary-gray: #5C6574;

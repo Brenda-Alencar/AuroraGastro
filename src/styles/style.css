@@ -3,7 +3,7 @@
 header{
     display: flex;
     justify-content: space-around;
-    alight-items: center;
+    align-items: center;
     padding: 20px 0px;
 }
 
@@ -32,4 +32,17 @@ header{
     text-decoration: none;
     font-family: var(--font-title);
     font-size: var(--font-button-size);
+}
+
+
+.section-maps{
+    display: flex;
+    justify-content: center;
+    background-color: var(--color-primary-orange-10);
+    padding: 60px 0px
+}
+
+.section-maps iframe{
+    width: 90%;
+    height: 60vh;
 }
